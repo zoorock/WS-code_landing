@@ -1,0 +1,61 @@
+body{
+  background: #F9D9D1;
+  color: black;
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+}
+h1{
+  font-family: 'Droid Serif', serif;
+  color: #F9D9D1;
+  font-weight: bolder;
+  font-size: 30px;
+}
+h2 {
+  font-family: 'Droid Serif', serif;
+  color: #C65B7C;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: #83B692;
+}
+a:hover {
+  text-decoration: none;
+  color: #F9627D;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  background-color: black; 
+  padding: 30px;
+  color: #F9D9D1;
+}
+#footer a{
+  color: #F9D9D1;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+.card{
+  text-align:center;
+  padding: 50px;
+  font-weight: lighter;
+}
