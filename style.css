@@ -26,8 +26,8 @@ a:hover {
 
 #banner{
   text-align: center;
-  background-image: url("https://cdn.pixabay.com/photo/2017/09/26/22/32/abstract-2790359_1280.png");
-  background-size: 800px 600px;
+  background-image: url("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg");
+  background-size: cover;
   padding: 150px;
   color: white;
   text-shadow: 3px 3px 7px #C65B7C;
