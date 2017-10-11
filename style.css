@@ -1,5 +1,5 @@
 body{
-  background: #F9D9D1;
+  background: white;
   color: black;
   font-size: 16px;
   font-family: 'Lato', sans-serif;
@@ -26,29 +26,35 @@ a:hover {
 
 #banner{
   text-align: center;
-  background-image: url("https://cdn.pixabay.com/photo/2016/01/21/15/53/pink-1154019_1280.jpg");
-  background-size: cover;
+  background-image: url("https://cdn.pixabay.com/photo/2017/09/26/22/32/abstract-2790359_1280.png");
+  background-size: 800px 600px;
   padding: 150px;
   color: white;
-  text-shadow: 1px 1px 5px black;
+  text-shadow: 3px 3px 7px #C65B7C;
 }
 #banner h1 {
   color: white;
   font-size: 50px;
+  font-weight: bolder;
 }
 #banner p {
-  color: white;
-  opacity: 0.8;
+  color: #C65B7C;
+  opacity: 0.9;
   font-size: 30px;
-  font-weight: lighter;
+}
+#banner a {
+  color: #C65B7C;
+  font-size: 20px;
+  text-shadow: 2px 2px 5px black
+  font-weight: bolder;
 }
 #footer{
   background-color: black; 
-  padding: 30px;
-  color: #F9D9D1;
+  padding: 20px;
+  color: white;
 }
 #footer a{
-  color: #F9D9D1;
+  color: #C65B7C;
   font-size: 15px;
 }
 #footer a:hover {
